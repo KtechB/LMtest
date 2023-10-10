@@ -1,0 +1,1 @@
+vastai search offers "dph<4 gpu_name=A100_SXM4 reliability > 0.90 "
